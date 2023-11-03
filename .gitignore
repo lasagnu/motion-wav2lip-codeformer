@@ -1,5 +1,6 @@
+.venv
+venv
 images/
 input/
 output/
-CodeFormer/
 Wav2Lip/
